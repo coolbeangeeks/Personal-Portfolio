@@ -4,10 +4,9 @@ import About from "./Components/About/About";
 import Headerr from "./Components/Header/Header";
 import Experience from "./Components/Experience/Experience";
 import Project from "./Components/Project/Project";
-import Testimonial from "./Components/Testimonial/Testimonial";
+import Certificates from "./Components/Certification/Certificates";
 import Contact from "./Components/Contact/Contact";
 import Footer from "./Components/Footer/Footer";
-
 
 const App=()=>{
     return(
@@ -16,8 +15,9 @@ const App=()=>{
         <Navbar/>
         <About/>
         <Experience/>
+        
+        <Certificates/>
         <Project/>
-        <Testimonial/>
         <Contact/>
         <Footer/>
 

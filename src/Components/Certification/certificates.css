@@ -1,0 +1,14 @@
+.container.certificates__container{
+    width: 40%;
+    text-align: center;
+}
+/* .certificate{
+    background: var(--color-bg-variant);
+    text-align: center;
+    padding: 2rem;
+    display: flex;
+} */
+
+.certificate{
+    text-align: center;
+}
