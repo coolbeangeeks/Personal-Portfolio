@@ -6,7 +6,6 @@ import Experience from "./Components/Experience/Experience";
 import Project from "./Components/Project/Project";
 import Certificates from "./Components/Certification/Certificates";
 import Contact from "./Components/Contact/Contact";
-import Footer from "./Components/Footer/Footer";
 
 const App=()=>{
     return(
@@ -19,7 +18,7 @@ const App=()=>{
         <Certificates/>
         <Project/>
         <Contact/>
-        <Footer/>
+        
 
         </>
 )

@@ -31,8 +31,6 @@ function Certificates() {
             <img src={react} alt="" />
             
           </div>
-          <h5>React Js</h5>
-          <small>Has passed a skill validation of React Js</small>
 
         </SwiperSlide>
         <SwiperSlide id='certificate'>
@@ -40,17 +38,13 @@ function Certificates() {
             <img src={certificate} alt="" />
             
           </div>
-          <h5>React Js</h5>
-          <small>Has Completed the React Js course from the Namaste Dev</small>
-
+          
         </SwiperSlide>
         <SwiperSlide id='certificate'>
           <div className="images__certi">
             <img src={js} alt="" />
            
           </div>
-          <h5>Javascript</h5>
-          <small>Has passed a skill validation of proficient in JS</small>
 
         </SwiperSlide>
       </Swiper>
